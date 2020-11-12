@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Bukunmi Ola</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="some_long_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Error facilis itaque nesciunt obcaecati officia quisquam ullam voluptatum.
+        Cupiditate,distinctio facere fuga molestiae quis quisquam ut veniam voluptatibus!
+        Ab blanditiis deserunt fugiat laudantium, libero maxime velit voluptatum.
+        Adipisci asperiores fuga, inventore, ipsum libero minus, mollitia nam non recusandae sed totam ullam!
+    </string>
+    <string name="menu">menu</string>
+    <string name="nickname_hint">What\'s your nickname</string>
+    <string name="done">Done</string>
+</resources>
