@@ -13,18 +13,19 @@ import com.udacity.aboutme.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding :ActivityMainBinding
+    private val myName = MyName("Bukunmi Ola")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 //        setContentView(R.layout.activity_main)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-
+        binding.myName =myName
         binding.doneButton.setOnClickListener { updateView(it) }
     }
 
     private fun updateView(view: View) {
         binding.apply {
-            nicknameText.text = nicknameEdit.text
+            myName?.nickname = nicknameEdit.text.toString()
             invalidateAll()
             nicknameEdit.visibility = View.GONE
             doneButton.visibility = View.GONE
